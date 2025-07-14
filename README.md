@@ -1,7 +1,7 @@
-![Priya's Profile Picture](https://github.com/yourusername/yourusername/blob/main/profile-pic.png?raw=true)
-
 # 💖 Hey there, I’m Priya!
-### 👩‍💻 Web Developer | UI/UX Lover | Code &#43; Coffee Enthusiast ☕✨
+
+### 👩‍💻 Web Developer | UI/UX Lover | Code + Coffee Enthusiast ☕✨
+
 Welcome to my digital corner on GitHub! I'm a passionate front-end developer who loves turning ideas into beautiful, interactive websites.
 
 ---
@@ -20,7 +20,7 @@ Welcome to my digital corner on GitHub! I'm a passionate front-end developer who
 ---
 
 ### 📌 Featured Projects
-- 💼 [Portfolio Website](https://yourportfolio.com) – My personal showcase, built with React &#43; Tailwind
+- 💼 [Portfolio Website](https://yourportfolio.com) – My personal showcase, built with React + Tailwind
 - 🛍️ [ShopEase](https://github.com/yourusername/shopease) – A clean e-commerce app
 - 📋 [To-Doify](https://github.com/yourusername/todoify) – A beautiful, minimal task manager
 
@@ -47,7 +47,7 @@ Welcome to my digital corner on GitHub! I'm a passionate front-end developer who
 - 🧠 I’m a lifelong learner
 - 🎧 Coding with lo-fi beats is my happy place
 - 📸 I love photography and creative writing on the side
-- ✨ Motto: *“Code like a girl – with heart, style, and strength.”*
+- ✨ Motto: *"Code like a girl – with heart, style, and strength."*
 
 ---
 
