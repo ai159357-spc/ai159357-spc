@@ -1,4 +1,4 @@
-# 💖 Hey there, I’m Aisha!
+# 💖 Hey there, I’m Priya!
 
 ### 👩‍💻 Web Developer | UI/UX Lover | Code + Coffee Enthusiast ☕✨
 
