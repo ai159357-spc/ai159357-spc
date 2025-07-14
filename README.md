@@ -1,3 +1,5 @@
+![Priya's Profile Picture](https://github.com/yourusername/yourusername/blob/main/profile-pic.png?raw=true)
+
 # 💖 Hey there, I’m Priya!
 ### 👩‍💻 Web Developer | UI/UX Lover | Code &#43; Coffee Enthusiast ☕✨
 Welcome to my digital corner on GitHub! I'm a passionate front-end developer who loves turning ideas into beautiful, interactive websites.
@@ -9,6 +11,11 @@ Welcome to my digital corner on GitHub! I'm a passionate front-end developer who
 - 🎨 I care deeply about **UI/UX design** and pixel-perfect layouts
 - 💡 I enjoy solving problems and making the web more accessible
 - ✨ Currently exploring: **Next.js**, **TypeScript**, and **Tailwind CSS**
+
+---
+
+### 🚀 In Action
+![Web Development GIF](https://media.giphy.com/media/v1.GIF/giphy.gif)
 
 ---
 
