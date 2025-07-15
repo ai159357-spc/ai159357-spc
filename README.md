@@ -12,7 +12,7 @@
 
 <hr/>
 
-<details>
+<details open>
 <summary><b>💡 About Me</b></summary>
 
 - 👩‍💻 I build beautiful, accessible web apps with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, and <b>Tailwind CSS</b>
@@ -50,7 +50,7 @@
 
 <hr/>
 
-<details>
+<details open>
 <summary><b>🛠️ My Tech Toolbox</b></summary>
 
 <p>
@@ -66,7 +66,7 @@
 
 <hr/>
 
-<details>
+<details open>
 <summary><b>💬 Let’s Connect!</b></summary>
 
 - 📫 Email: [aisha.dev@example.com](mailto:aisha.dev@example.com)
@@ -77,7 +77,7 @@
 
 <hr/>
 
-<details>
+<details open>
 <summary><b>🌸 A Little More About Me</b></summary>
 
 - 🎧 Coding with lo-fi beats is my happy place
