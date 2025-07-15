@@ -1,55 +1,86 @@
-# 💖 Hey there, I’m Priya!
 
-### 👩‍💻 Web Developer | UI/UX Lover | Code + Coffee Enthusiast ☕✨
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Priya!+%F0%9F%92%96;Front-End+Developer+%7C+UI%2FUX+Enthusiast+%7C+Code+%2B+Coffee+Lover"/>
+</div>
 
-Welcome to my digital corner on GitHub! I'm a passionate front-end developer who loves turning ideas into beautiful, interactive websites.
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.GIF/giphy.gif" width="350"/>
+</div>
 
----
+<hr/>
 
-### 💼 What I Do
-- 🌐 I build responsive, user-friendly websites with **HTML**, **CSS**, **JavaScript**, and **React**
-- 🎨 I care deeply about **UI/UX design** and pixel-perfect layouts
-- 💡 I enjoy solving problems and making the web more accessible
-- ✨ Currently exploring: **Next.js**, **TypeScript**, and **Tailwind CSS**
+<div align="center">
+<b>🌸 Welcome to my creative corner on GitHub! 🌸</b>
+</div>
 
----
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" height="32"/>
+</div>
 
-### 🚀 In Action
-![Web Development GIF](https://media.giphy.com/media/v1.GIF/giphy.gif)
+<hr/>
 
----
+<details>
+<summary><b>� About Me</b></summary>
 
-### 📌 Featured Projects
+- 👩‍💻 I build beautiful, accessible web apps with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, and <b>Tailwind CSS</b>
+- 🎨 UI/UX is my passion — I love pixel-perfect layouts and smooth user experiences
+- ☕ Fueled by coffee and creativity
+- 🚀 Exploring <b>Next.js</b>, <b>TypeScript</b>, and design systems
+- 🧠 Lifelong learner & problem solver
+- ✨ Motto: <i>"Code like a girl – with heart, style, and strength."</i>
+
+</details>
+
+<hr/>
+
+<details open>
+<summary><b>� Featured Projects</b></summary>
+
 - 💼 [Portfolio Website](https://yourportfolio.com) – My personal showcase, built with React + Tailwind
 - 🛍️ [ShopEase](https://github.com/yourusername/shopease) – A clean e-commerce app
 - 📋 [To-Doify](https://github.com/yourusername/todoify) – A beautiful, minimal task manager
 
----
+</details>
 
-### 🛠️ My Tech Toolbox
-![HTML](https://img.shields.io/badge/HTML5-FE6F61?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-6B5B95?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB347?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-88B04B?style=flat&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-92A8D1?style=flat&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-DAA5A4?style=flat&logo=figma&logoColor=white)
+<hr/>
 
----
+<details>
+<summary><b>🛠️ My Tech Toolbox</b></summary>
 
-### 💬 Let’s Connect!
+<p>
+  <img src="https://img.shields.io/badge/HTML5-FE6F61?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-6B5B95?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFB347?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-88B04B?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-92A8D1?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-DAA5A4?style=flat&logo=figma&logoColor=white"/>
+</p>
+
+</details>
+
+<hr/>
+
+<details>
+<summary><b>💬 Let’s Connect!</b></summary>
+
 - 📫 Email: [aisha.dev@example.com](mailto:aisha.dev@example.com)
 - 🌐 Website: [aisha.dev](https://aisha.dev)
 - 💼 LinkedIn: [linkedin.com/in/aishadev](https://linkedin.com/in/aishadev)
 
----
+</details>
 
-### 🌸 A Little More About Me
-- 🧠 I’m a lifelong learner
+<hr/>
+
+<details>
+<summary><b>🌸 A Little More About Me</b></summary>
+
 - 🎧 Coding with lo-fi beats is my happy place
 - 📸 I love photography and creative writing on the side
-- ✨ Motto: *"Code like a girl – with heart, style, and strength."*
 
----
+</details>
 
-### 📊 GitHub Stats
-![Priya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine)
+<hr/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine"/>
+</div>
