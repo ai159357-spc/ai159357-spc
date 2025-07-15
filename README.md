@@ -26,6 +26,13 @@
 - 📝 I blog about web dev, design, and productivity
 - 🧩 Hobbies: digital art, travel, and board games
 - 🐱 Cat person (but I love dogs too!)
+- 🖌️ I design in Figma and love prototyping new ideas
+- 🏫 Computer Science graduate
+- 🧑‍🏫 I mentor juniors and run coding workshops
+- 🏅 Google Women Techmakers & GirlScript member
+- 🏃‍♀️ I enjoy running and fitness challenges
+- 🎬 Favorite movies: sci-fi, animation, and Bollywood classics
+- 🎮 Sometimes a casual gamer (Valorant, Among Us, Mario Kart)
 - ✨ Motto: <i>"Code like a girl – with heart, style, and strength."</i>
 
 </details>
@@ -80,6 +87,11 @@
 - 🧘‍♀️ Practicing mindfulness and yoga
 - 🥳 I love hackathons, meetups, and tech events
 - 🥇 Favorite quote: <i>"Stay curious, stay kind."</i>
+- 🧋 Bubble tea and iced coffee enthusiast
+- 🏖️ Dream travel: Japan, Norway, and New Zealand
+- 🧩 Puzzle solver (crosswords, sudoku, logic games)
+- 🖼️ I collect art prints and postcards
+- 🧦 Fun fact: I have a quirky sock collection!
 
 </details>
 
