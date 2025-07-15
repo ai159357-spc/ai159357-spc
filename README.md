@@ -1,21 +1,14 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Priya!+%F0%9F%92%96;Front-End+Developer+%7C+UI%2FUX+Enthusiast+%7C+Code+%2B+Coffee+Lover"/>
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.GIF/giphy.gif" width="350"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F472B6&center=false&vCenter=true&width=435&lines=Hi%2C+I'm+Priya!+%F0%9F%92%96;Front-End+Developer+%7C+UI%2FUX+Enthusiast+%7C+Code+%2B+Coffee+Lover"/>
 
-<hr/>
+<img src="https://media.giphy.com/media/v1.GIF/giphy.gif" width="350"/>
 
-<div align="center">
-<b>🌸 Welcome to my creative corner on GitHub! 🌸</b>
-</div>
+---
 
-<div align="center">
+**🌸 Welcome to my creative corner on GitHub! 🌸**
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" height="32"/>
-</div>
 
 <hr/>
 
@@ -92,6 +85,6 @@
 
 <hr/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine"/>
-</div>
+---
+
+![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine)
