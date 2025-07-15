@@ -20,13 +20,19 @@
 <hr/>
 
 <details>
-<summary><b>� About Me</b></summary>
+<summary><b>💡 About Me</b></summary>
 
 - 👩‍💻 I build beautiful, accessible web apps with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, and <b>Tailwind CSS</b>
 - 🎨 UI/UX is my passion — I love pixel-perfect layouts and smooth user experiences
 - ☕ Fueled by coffee and creativity
 - 🚀 Exploring <b>Next.js</b>, <b>TypeScript</b>, and design systems
 - 🧠 Lifelong learner & problem solver
+- 🏆 Hackathon winner & open source contributor
+- 🌏 Based in India, collaborating globally
+- 🗣️ Fluent in English, Hindi, and a bit of French
+- 📝 I blog about web dev, design, and productivity
+- 🧩 Hobbies: digital art, travel, and board games
+- 🐱 Cat person (but I love dogs too!)
 - ✨ Motto: <i>"Code like a girl – with heart, style, and strength."</i>
 
 </details>
@@ -76,6 +82,11 @@
 
 - 🎧 Coding with lo-fi beats is my happy place
 - 📸 I love photography and creative writing on the side
+- 🥗 Foodie: always up for trying new recipes
+- 🏞️ Nature walks and city adventures
+- 🧘‍♀️ Practicing mindfulness and yoga
+- 🥳 I love hackathons, meetups, and tech events
+- 🥇 Favorite quote: <i>"Stay curious, stay kind."</i>
 
 </details>
 
